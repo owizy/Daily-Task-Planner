@@ -1,72 +1,125 @@
+# 📋 Daily Task Planner
 
-![image](https://user-images.githubusercontent.com/83400697/207388229-b6463c21-39cb-4926-98b1-b77f3c2790a1.png)
+![Daily Task Planner](https://user-images.githubusercontent.com/83400697/207388229-b6463c21-39cb-4926-98b1-b77f3c2790a1.png)
 
-![image](https://user-images.githubusercontent.com/83400697/202429157-a953dc00-f32d-4312-862a-1902a628b6ba.png)
+A simple, intuitive, and efficient **task management application** built with **HTML, CSS, and JavaScript**. Daily Task Planner helps you organize your daily activities, keep track of important tasks, and improve productivity.
 
+The application allows you to easily **add, edit, complete, and delete tasks**. It also features **voice command functionality**, allowing you to manage your tasks hands-free.
 
-Join the [discord server](https://discord.gg/JdFsJPrayj) for more discussion: 
+---
 
-# To-Do List Application
+## ✨ Features
 
-This is a simple yet effective To-Do List Application built with HTML, CSS, and JavaScript. It allows you to manage your tasks and stay organized. You can add, edit, mark as completed, and delete tasks effortlessly.
+* ➕ **Add Tasks** – Create new tasks quickly and easily.
+* ✏️ **Edit Tasks** – Double-click a task to edit its details.
+* ✅ **Complete Tasks** – Mark tasks as completed using the checkbox.
+* 🗑️ **Delete Tasks** – Remove tasks you no longer need.
+* 🎙️ **Voice Commands** – Add, edit, and delete tasks using your voice.
+* 📅 **Task Details** – Specify information such as task name, due date, and priority.
+* 🎨 **Simple & User-Friendly Interface** – Designed for easy and efficient task management.
 
-## Tech Stack
+---
 
-- HTML
-- CSS
-- JavaScript
+## 🛠️ Tech Stack
 
-## Installation
+This project was developed using:
+
+* **HTML5** – Application structure and content
+* **CSS3** – Styling and user interface
+* **JavaScript** – Application logic and interactive functionality
+* **Web Speech API** – Voice command functionality
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+All you need is a modern web browser such as:
+
+* Google Chrome
+* Microsoft Edge
+* Mozilla Firefox
+* Safari
+
+### Installation
 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Kritika30032002/To-Do-List-Application.git
+git clone https://github.com/owizy/Daily-Task-Planner.git
 ```
-Open the index.html file in your web browser to start using the application.
+
+Navigate to the project directory:
+
+```bash
+cd Daily-Task-Planner
+```
+
+Then open the `index.html` file in your preferred web browser.
+
+That's it! No additional dependencies or installation steps are required.
+
+---
+
+## 📖 Usage
+
+### Adding a Task
+
+Click the **Add Task** button and enter the details of your task.
+
+### Editing a Task
+
+Double-click on an existing task to edit its name or details.
+
+### Completing a Task
+
+Click the checkbox next to a task to mark it as completed.
+
+### Deleting a Task
+
+Click the **trash/delete icon** to remove a task.
+
+---
+
+## 🎙️ Voice Command
+
+Daily Task Planner includes a voice command feature that allows you to manage your tasks without typing.
+
+### How to Use Voice Commands
+
+1. Click the **"Start Voice Command"** button.
+2. Allow microphone access if your browser requests permission.
+3. Wait for the application to start listening.
+4. Clearly state the action you want to perform.
+5. Include relevant information such as the **task name, due date, and priority** when necessary.
+6. The application will process your command and update your task list.
+
+This feature makes managing your daily tasks faster, easier, and more convenient.
+
+---
+
+## 📸 Screenshots
 
 
-## Usage
- 1. Add tasks with a simple click.
- 2. Edit task names by double-clicking on them.
- 3. Mark tasks as completed by clicking on the checkbox.
- 4. Delete tasks by clicking on the trash icon.
- 5. Using voice command feature to add, edit and delete task 
+### Application Interface
 
-Our to-do list application supports voice command for adding tasks effortlessly. Here's how you can use it :
- 1. Click on the "Start Voice Command" button
- 2. Wait for the application to start listening
- 3. Clearly state your task, due date and priority.
+<img width="960" height="479" alt="image" src="https://github.com/user-attachments/assets/5d7bb3e8-0710-4f65-9f4b-73ade30b0161?raw=true" />
 
-Example prompt for adding task using voice command :
- "Add asignment due date 16th Nov priority High" 
-Example prompt for editing tasks : 
- "Edit task assignment to a" (will change the task title from assignment to a " 
-Example prompt for deketing a task : 
- "Delete task assignment"  
+---
 
- Watch our video for detailed demonstration. 
- 
-https://github.com/AishaAgarwal/To-Do-List-Application/assets/107138192/832814c7-cd21-4c85-81ed-e7192c720710
+## 📂 Project Structure
 
-## Contributing
-Feel free to contribute to this project by creating a pull request. We welcome any improvements, bug fixes, or new features.
+```text
+Daily-Task-Planner/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
 
-## Why & How to contribute?
-- If you find any bugs then please report them by creating an issue. 
-- If you can make a website look good by modifying then go ahead and describe it in issue and create pull request. 
-- If you can add more functionality, then create an issue and contribute by making pull request.
+---
 
 
 
-
-## Thanks to all Contributors 💪
-
-<a href="https://github.com/Kritika30032002/To-Do-List-Application/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Kritika30032002/To-Do-List-Application"/>
-</a>  <br>
-Thanks a lot for spending your time. <br>
-Keep rocking 🍻 <br>
-Also Give it a Star 🌟, If you loved contributing to the project.
-
-## [MIT Licensed](https://github.com/Kritika30032002/To-Do-List-Application/blob/main/LICENSE)
